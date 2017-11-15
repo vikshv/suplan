@@ -8,4 +8,4 @@ Web site supply planing for outdoor
 ## Notes
 
 ### Copyright and license
-Code and documentation copyright 2012 **Viktor Shvetcov**.
+Code and documentation copyright 2017 **Viktor Shvetcov**.

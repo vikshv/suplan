@@ -69,6 +69,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.0.0-beta.2",
     "classnames": "^2.2.5",
     "history": "^4.7.2",
     "moment": "^2.19.2",
